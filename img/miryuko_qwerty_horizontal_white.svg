@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.43868992"
-     inkscape:cx="524.28831"
-     inkscape:cy="789.85174"
+     inkscape:cx="280.38027"
+     inkscape:cy="1683.4214"
      inkscape:window-width="3436"
      inkscape:window-height="1407"
      inkscape:window-x="0"
@@ -47,16 +47,14 @@
      y="0" />
   <g
      class="layer-Base"
-     id="g60"
-     transform="translate(-11.228516,1.3074001)">
+     id="g60-2"
+     transform="translate(-10.555352,-6.0210484)">
     <text
        x="30"
        y="28"
        class="label"
-       id="text1"
-       style="font-size:26.6667px"><tspan
-   style="font-size:32px"
-   id="tspan2">Base</tspan>:</text>
+       id="text1-7"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">Base:</text>
     <rect
        rx="6"
        ry="6"
@@ -65,12 +63,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect1" />
+       id="rect1-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="105"
        class="tap"
-       id="text2">TAB</text>
+       id="text2-0"
+       style="dominant-baseline:middle;text-anchor:middle">TAB</text>
     <rect
        rx="6"
        ry="6"
@@ -79,12 +79,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect2" />
+       id="rect2-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="105"
        class="tap"
-       id="text3">Q</text>
+       id="text3-2"
+       style="dominant-baseline:middle;text-anchor:middle">Q</text>
     <rect
        rx="6"
        ry="6"
@@ -93,12 +95,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect3" />
+       id="rect3-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="91"
        class="tap"
-       id="text4">W</text>
+       id="text4-0"
+       style="dominant-baseline:middle;text-anchor:middle">W</text>
     <rect
        rx="6"
        ry="6"
@@ -107,12 +111,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect4" />
+       id="rect4-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="84"
        class="tap"
-       id="text5">E</text>
+       id="text5-7"
+       style="dominant-baseline:middle;text-anchor:middle">E</text>
     <rect
        rx="6"
        ry="6"
@@ -121,12 +127,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect5" />
+       id="rect5-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="91"
        class="tap"
-       id="text6">R</text>
+       id="text6-0"
+       style="dominant-baseline:middle;text-anchor:middle">R</text>
     <rect
        rx="6"
        ry="6"
@@ -135,12 +143,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect6" />
+       id="rect6-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="98"
        class="tap"
-       id="text7">T</text>
+       id="text7-4"
+       style="dominant-baseline:middle;text-anchor:middle">T</text>
     <rect
        rx="6"
        ry="6"
@@ -149,12 +159,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect7" />
+       id="rect7-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="98"
        class="tap"
-       id="text8">Y</text>
+       id="text8-2"
+       style="dominant-baseline:middle;text-anchor:middle">Y</text>
     <rect
        rx="6"
        ry="6"
@@ -163,12 +175,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect8" />
+       id="rect8-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="91"
        class="tap"
-       id="text9">U</text>
+       id="text9-4"
+       style="dominant-baseline:middle;text-anchor:middle">U</text>
     <rect
        rx="6"
        ry="6"
@@ -177,12 +191,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect9" />
+       id="rect9-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="84"
        class="tap"
-       id="text10">I</text>
+       id="text10-5"
+       style="dominant-baseline:middle;text-anchor:middle">I</text>
     <rect
        rx="6"
        ry="6"
@@ -191,12 +207,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect10" />
+       id="rect10-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="91"
        class="tap"
-       id="text11">O</text>
+       id="text11-4"
+       style="dominant-baseline:middle;text-anchor:middle">O</text>
     <rect
        rx="6"
        ry="6"
@@ -205,12 +223,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect11" />
+       id="rect11-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="105"
        class="tap"
-       id="text12">P</text>
+       id="text12-3"
+       style="dominant-baseline:middle;text-anchor:middle">P</text>
     <rect
        rx="6"
        ry="6"
@@ -219,12 +239,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect12" />
+       id="rect12-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="105"
        class="tap"
-       id="text13">BSPC</text>
+       id="text13-6"
+       style="dominant-baseline:middle;text-anchor:middle">BSPC</text>
     <rect
        rx="6"
        ry="6"
@@ -233,12 +255,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect13" />
+       id="rect13-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="161"
        class="tap"
-       id="text14">ESCAPE</text>
+       id="text14-8"
+       style="dominant-baseline:middle;text-anchor:middle">ESCAPE</text>
     <rect
        rx="6"
        ry="6"
@@ -247,18 +271,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect14" />
+       id="rect14-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="161"
        class="tap"
-       id="text15">A</text>
+       id="text15-2"
+       style="dominant-baseline:middle;text-anchor:middle">A</text>
     <text
        x="114"
        y="185"
        class="hold"
-       style="font-size:88%"
-       id="text16">LEFT GUI</text>
+       style="font-size:88%;dominant-baseline:auto;text-anchor:middle"
+       id="text16-2">LEFT GUI</text>
     <rect
        rx="6"
        ry="6"
@@ -267,18 +293,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect16" />
+       id="rect16-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="147"
        class="tap"
-       id="text17">S</text>
+       id="text17-1"
+       style="dominant-baseline:middle;text-anchor:middle">S</text>
     <text
        x="170"
        y="171"
        class="hold"
-       style="font-size:88%"
-       id="text18">LEFT ALT</text>
+       style="font-size:88%;dominant-baseline:auto;text-anchor:middle"
+       id="text18-8">LEFT ALT</text>
     <rect
        rx="6"
        ry="6"
@@ -287,17 +315,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect18" />
+       id="rect18-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="140"
        class="tap"
-       id="text19">D</text>
+       id="text19-4"
+       style="dominant-baseline:middle;text-anchor:middle">D</text>
     <text
        x="226"
        y="164"
        class="hold"
-       id="text20">LCTRL</text>
+       id="text20-2"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">LCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -306,18 +337,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect20" />
+       id="rect20-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="147"
        class="tap"
-       id="text21">F</text>
+       id="text21-4"
+       style="dominant-baseline:middle;text-anchor:middle">F</text>
     <text
        x="282"
        y="171"
        class="hold"
-       style="font-size:70%"
-       id="text22">LEFT SHIFT</text>
+       style="font-size:70%;dominant-baseline:auto;text-anchor:middle"
+       id="text22-5">LEFT SHIFT</text>
     <rect
        rx="6"
        ry="6"
@@ -326,12 +359,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect22" />
+       id="rect22-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="154"
        class="tap"
-       id="text23">G</text>
+       id="text23-7"
+       style="dominant-baseline:middle;text-anchor:middle">G</text>
     <rect
        rx="6"
        ry="6"
@@ -340,12 +375,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect23" />
+       id="rect23-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="154"
        class="tap"
-       id="text24">H</text>
+       id="text24-7"
+       style="dominant-baseline:middle;text-anchor:middle">H</text>
     <rect
        rx="6"
        ry="6"
@@ -354,18 +391,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect24" />
+       id="rect24-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="147"
        class="tap"
-       id="text25">J</text>
+       id="text25-6"
+       style="dominant-baseline:middle;text-anchor:middle">J</text>
     <text
        x="618"
        y="171"
        class="hold"
-       style="font-size:64%"
-       id="text26">RIGHT SHIFT</text>
+       style="font-size:64%;dominant-baseline:auto;text-anchor:middle"
+       id="text26-9">RIGHT SHIFT</text>
     <rect
        rx="6"
        ry="6"
@@ -374,17 +413,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect26" />
+       id="rect26-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="140"
        class="tap"
-       id="text27">K</text>
+       id="text27-1"
+       style="dominant-baseline:middle;text-anchor:middle">K</text>
     <text
        x="674"
        y="164"
        class="hold"
-       id="text28">RCTRL</text>
+       id="text28-3"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">RCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -393,18 +435,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect28" />
+       id="rect28-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="147"
        class="tap"
-       id="text29">L</text>
+       id="text29-3"
+       style="dominant-baseline:middle;text-anchor:middle">L</text>
     <text
        x="730"
        y="171"
        class="hold"
-       style="font-size:78%"
-       id="text30">RIGHT ALT</text>
+       style="font-size:78%;dominant-baseline:auto;text-anchor:middle"
+       id="text30-7">RIGHT ALT</text>
     <rect
        rx="6"
        ry="6"
@@ -413,18 +457,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect30" />
+       id="rect30-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="161"
        class="tap"
-       id="text31">;</text>
+       id="text31-8"
+       style="dominant-baseline:middle;text-anchor:middle">;</text>
     <text
        x="786"
        y="185"
        class="hold"
-       style="font-size:78%"
-       id="text32">RIGHT GUI</text>
+       style="font-size:78%;dominant-baseline:auto;text-anchor:middle"
+       id="text32-6">RIGHT GUI</text>
     <rect
        rx="6"
        ry="6"
@@ -433,12 +479,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect32" />
+       id="rect32-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="161"
        class="tap"
-       id="text33">'</text>
+       id="text33-0"
+       style="dominant-baseline:middle;text-anchor:middle">'</text>
     <rect
        rx="6"
        ry="6"
@@ -447,12 +495,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect33" />
+       id="rect33-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="217"
        class="tap"
-       id="text34">LSHFT</text>
+       id="text34-8"
+       style="dominant-baseline:middle;text-anchor:middle">LSHFT</text>
     <rect
        rx="6"
        ry="6"
@@ -461,17 +511,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect34" />
+       id="rect34-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="217"
        class="tap"
-       id="text35">Z</text>
+       id="text35-8"
+       style="dominant-baseline:middle;text-anchor:middle">Z</text>
     <text
        x="114"
        y="241"
        class="hold"
-       id="text36">Button</text>
+       id="text36-1"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">Button</text>
     <rect
        rx="6"
        ry="6"
@@ -480,12 +533,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect36" />
+       id="rect36-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="203"
        class="tap"
-       id="text37">X</text>
+       id="text37-8"
+       style="dominant-baseline:middle;text-anchor:middle">X</text>
     <rect
        rx="6"
        ry="6"
@@ -494,12 +549,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect37" />
+       id="rect37-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="196"
        class="tap"
-       id="text38">C</text>
+       id="text38-2"
+       style="dominant-baseline:middle;text-anchor:middle">C</text>
     <rect
        rx="6"
        ry="6"
@@ -508,12 +565,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect38" />
+       id="rect38-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="203"
        class="tap"
-       id="text39">V</text>
+       id="text39-9"
+       style="dominant-baseline:middle;text-anchor:middle">V</text>
     <rect
        rx="6"
        ry="6"
@@ -522,12 +581,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect39" />
+       id="rect39-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="210"
        class="tap"
-       id="text40">B</text>
+       id="text40-6"
+       style="dominant-baseline:middle;text-anchor:middle">B</text>
     <rect
        rx="6"
        ry="6"
@@ -536,12 +597,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect40" />
+       id="rect40-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="210"
        class="tap"
-       id="text41">N</text>
+       id="text41-6"
+       style="dominant-baseline:middle;text-anchor:middle">N</text>
     <rect
        rx="6"
        ry="6"
@@ -550,12 +613,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect41" />
+       id="rect41-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="203"
        class="tap"
-       id="text42">M</text>
+       id="text42-9"
+       style="dominant-baseline:middle;text-anchor:middle">M</text>
     <rect
        rx="6"
        ry="6"
@@ -564,12 +629,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect42" />
+       id="rect42-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="196"
        class="tap"
-       id="text43">,</text>
+       id="text43-0"
+       style="dominant-baseline:middle;text-anchor:middle">,</text>
     <rect
        rx="6"
        ry="6"
@@ -578,12 +645,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect43" />
+       id="rect43-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="203"
        class="tap"
-       id="text44">.</text>
+       id="text44-9"
+       style="dominant-baseline:middle;text-anchor:middle">.</text>
     <rect
        rx="6"
        ry="6"
@@ -592,17 +661,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect44" />
+       id="rect44-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="217"
        class="tap"
-       id="text45">/</text>
+       id="text45-1"
+       style="dominant-baseline:middle;text-anchor:middle">/</text>
     <text
        x="786"
        y="241"
        class="hold"
-       id="text46">Button</text>
+       id="text46-4"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">Button</text>
     <rect
        rx="6"
        ry="6"
@@ -611,18 +683,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect46" />
+       id="rect46-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="217"
        class="tap"
-       id="text47">RETURN</text>
+       id="text47-9"
+       style="dominant-baseline:middle;text-anchor:middle">RETURN</text>
     <text
        x="842"
        y="241"
        class="hold"
-       style="font-size:64%"
-       id="text48">RIGHT SHIFT</text>
+       style="font-size:64%;dominant-baseline:auto;text-anchor:middle"
+       id="text48-6">RIGHT SHIFT</text>
     <rect
        rx="6"
        ry="6"
@@ -631,20 +705,23 @@
        width="52"
        height="52"
        class="key"
-       id="rect48" />
+       id="rect48-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="254"
        y="260.84799"
        class="tap"
-       id="text49">ESCAPE</text>
+       id="text49-7"
+       style="dominant-baseline:middle;text-anchor:middle">ESCAPE</text>
     <text
        x="254"
        y="284.84799"
        class="hold"
-       id="text50">Media</text>
+       id="text50-3"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">Media</text>
     <g
        transform="rotate(15,315.6,269.08)"
-       id="g52">
+       id="g52-7">
       <rect
          rx="6"
          ry="6"
@@ -653,21 +730,24 @@
          width="52"
          height="52"
          class="key"
-         id="rect50" />
+         id="rect50-1"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="315.60001"
          y="269.07999"
          class="tap"
-         id="text51">SPACE</text>
+         id="text51-2"
+         style="dominant-baseline:middle;text-anchor:middle">TAB</text>
       <text
          x="315.60001"
          y="293.07999"
          class="hold"
-         id="text52">Nav</text>
+         id="text52-2"
+         style="font-size:11px;dominant-baseline:auto;text-anchor:middle">Nav</text>
     </g>
     <g
        transform="rotate(30,381.12,280.28)"
-       id="g54">
+       id="g54-1">
       <rect
          rx="6"
          ry="6"
@@ -676,21 +756,24 @@
          width="52"
          height="80"
          class="key"
-         id="rect52" />
+         id="rect52-5"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="381.12"
          y="280.28"
          class="tap"
-         id="text53">TAB</text>
+         id="text53-0"
+         style="dominant-baseline:middle;text-anchor:middle">SPACE</text>
       <text
          x="381.12"
          y="318.28"
          class="hold"
-         id="text54">Mouse</text>
+         id="text54-9"
+         style="font-size:11px;dominant-baseline:auto;text-anchor:middle">Mouse</text>
     </g>
     <g
        transform="rotate(-30,518.88,280.28)"
-       id="g56">
+       id="g56-0">
       <rect
          rx="6"
          ry="6"
@@ -699,21 +782,24 @@
          width="52"
          height="80"
          class="key"
-         id="rect54" />
+         id="rect54-4"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="518.88"
          y="280.28"
          class="tap"
-         id="text55">ENTER</text>
+         id="text55-0"
+         style="dominant-baseline:middle;text-anchor:middle">ENTER</text>
       <text
          x="518.88"
          y="318.28"
          class="hold"
-         id="text56">SYM</text>
+         id="text56-1"
+         style="font-size:11px;dominant-baseline:auto;text-anchor:middle">SYM</text>
     </g>
     <g
        transform="rotate(-15,584.4,269.08)"
-       id="g58">
+       id="g58-3">
       <rect
          rx="6"
          ry="6"
@@ -722,18 +808,20 @@
          width="52"
          height="52"
          class="key"
-         id="rect56" />
+         id="rect56-7"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="584.40002"
          y="269.07999"
          class="tap"
-         style="font-size:78%"
-         id="text57">BACKSPACE</text>
+         style="font-size:78%;dominant-baseline:middle;text-anchor:middle"
+         id="text57-4">BACKSPACE</text>
       <text
          x="584.40002"
          y="293.07999"
          class="hold"
-         id="text58">Num</text>
+         id="text58-1"
+         style="font-size:11px;dominant-baseline:auto;text-anchor:middle">Num</text>
     </g>
     <rect
        rx="6"
@@ -743,29 +831,31 @@
        width="52"
        height="52"
        class="key"
-       id="rect58" />
+       id="rect58-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="646"
        y="260.84799"
        class="tap"
-       id="text59">DEL</text>
+       id="text59-3"
+       style="dominant-baseline:middle;text-anchor:middle">DEL</text>
     <text
        x="646"
        y="284.84799"
        class="hold"
-       id="text60">FUN</text>
+       id="text60-0"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">FUN</text>
   </g>
   <g
      class="layer-Nav"
-     id="g107"
-     transform="translate(-10.681641,331.93893)">
+     id="g107-3"
+     transform="translate(-10.207031,331.15866)">
     <text
        x="30"
        y="358.65308"
        class="label"
-       id="text61"><tspan
-   style="font-size:32px"
-   id="tspan1">Nav</tspan>:</text>
+       id="text61-2"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">Nav:</text>
     <rect
        rx="6"
        ry="6"
@@ -774,12 +864,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect61" />
+       id="rect61-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="435.65308"
        class="trans tap"
-       id="text62">▽</text>
+       id="text62-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -788,12 +880,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect62" />
+       id="rect62-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="435.65308"
        class="trans tap"
-       id="text63">▽</text>
+       id="text63-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -802,12 +896,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect63" />
+       id="rect63-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="421.65308"
        class="trans tap"
-       id="text64">▽</text>
+       id="text64-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -816,12 +912,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect64" />
+       id="rect64-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="414.65308"
        class="trans tap"
-       id="text65">▽</text>
+       id="text65-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -830,12 +928,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect65" />
+       id="rect65-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="421.65308"
        class="trans tap"
-       id="text66">▽</text>
+       id="text66-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -844,12 +944,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect66" />
+       id="rect66-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="428.65308"
        class="trans tap"
-       id="text67">▽</text>
+       id="text67-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -858,12 +960,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect67" />
+       id="rect67-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="428.65308"
        class="tap"
-       id="text68">REDO</text>
+       id="text68-6"
+       style="dominant-baseline:middle;text-anchor:middle">REDO</text>
     <rect
        rx="6"
        ry="6"
@@ -872,12 +976,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect68" />
+       id="rect68-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="421.65308"
        class="tap"
-       id="text69">PASTE</text>
+       id="text69-7"
+       style="dominant-baseline:middle;text-anchor:middle">PASTE</text>
     <rect
        rx="6"
        ry="6"
@@ -886,12 +992,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect69" />
+       id="rect69-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="414.65308"
        class="tap"
-       id="text70">COPY</text>
+       id="text70-5"
+       style="dominant-baseline:middle;text-anchor:middle">COPY</text>
     <rect
        rx="6"
        ry="6"
@@ -900,12 +1008,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect70" />
+       id="rect70-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="421.65308"
        class="tap"
-       id="text71">CUT</text>
+       id="text71-2"
+       style="dominant-baseline:middle;text-anchor:middle">CUT</text>
     <rect
        rx="6"
        ry="6"
@@ -914,12 +1024,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect71" />
+       id="rect71-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="435.65308"
        class="tap"
-       id="text72">UNDO</text>
+       id="text72-3"
+       style="dominant-baseline:middle;text-anchor:middle">UNDO</text>
     <rect
        rx="6"
        ry="6"
@@ -928,12 +1040,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect72" />
+       id="rect72-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="435.65308"
        class="tap"
-       id="text73">BSPC</text>
+       id="text73-4"
+       style="dominant-baseline:middle;text-anchor:middle">BSPC</text>
     <rect
        rx="6"
        ry="6"
@@ -942,12 +1056,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect73" />
+       id="rect73-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="491.65308"
        class="tap"
-       id="text74">LCTRL</text>
+       id="text74-9"
+       style="dominant-baseline:middle;text-anchor:middle">LCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -956,18 +1072,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect74" />
+       id="rect74-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="491.65308"
        class="tap"
-       id="text75"><tspan
+       id="text75-2"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="114"
          dy="-0.60000002em"
-         id="tspan74">LEFT</tspan><tspan
+         id="tspan74-2">LEFT</tspan><tspan
          x="114"
          dy="1.2em"
-         id="tspan75">GUI</tspan></text>
+         id="tspan75-1">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -976,18 +1094,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect75" />
+       id="rect75-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="477.65308"
        class="tap"
-       id="text77"><tspan
+       id="text77-3"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="170"
          dy="-0.60000002em"
-         id="tspan76">LEFT</tspan><tspan
+         id="tspan76-0">LEFT</tspan><tspan
          x="170"
          dy="1.2em"
-         id="tspan77">ALT</tspan></text>
+         id="tspan77-2">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -996,18 +1116,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect77" />
+       id="rect77-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="470.65308"
        class="tap"
-       id="text79"><tspan
+       id="text79-5"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="226"
          dy="-0.60000002em"
-         id="tspan78">LEFT</tspan><tspan
+         id="tspan78-6">LEFT</tspan><tspan
          x="226"
          dy="1.2em"
-         id="tspan79">CONTROL</tspan></text>
+         id="tspan79-5">CONTROL</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1016,18 +1138,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect79" />
+       id="rect79-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="477.65308"
        class="tap"
-       id="text81"><tspan
+       id="text81-0"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="282"
          dy="-0.60000002em"
-         id="tspan80">LEFT</tspan><tspan
+         id="tspan80-3">LEFT</tspan><tspan
          x="282"
          dy="1.2em"
-         id="tspan81">SHIFT</tspan></text>
+         id="tspan81-4">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1036,12 +1160,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect81" />
+       id="rect81-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="484.65308"
        class="trans tap"
-       id="text82">▽</text>
+       id="text82-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1050,12 +1176,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect82" />
+       id="rect82-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="484.65308"
        class="tap"
-       id="text83">LEFT</text>
+       id="text83-2"
+       style="dominant-baseline:middle;text-anchor:middle">LEFT</text>
     <rect
        rx="6"
        ry="6"
@@ -1064,18 +1192,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect83" />
+       id="rect83-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="477.65308"
        class="tap"
-       id="text84"><tspan
+       id="text84-8"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="618"
          dy="-0.60000002em"
-         id="tspan83">DOWN</tspan><tspan
+         id="tspan83-9">DOWN</tspan><tspan
          x="618"
          dy="1.2em"
-         id="tspan84">ARROW</tspan></text>
+         id="tspan84-5">ARROW</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1084,18 +1214,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect84" />
+       id="rect84-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="470.65308"
        class="tap"
-       id="text86"><tspan
+       id="text86-6"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="674"
          dy="-0.60000002em"
-         id="tspan85">UP</tspan><tspan
+         id="tspan85-0">UP</tspan><tspan
          x="674"
          dy="1.2em"
-         id="tspan86">ARROW</tspan></text>
+         id="tspan86-8">ARROW</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1104,12 +1236,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect86" />
+       id="rect86-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="477.65308"
        class="tap"
-       id="text87">RIGHT</text>
+       id="text87-7"
+       style="dominant-baseline:middle;text-anchor:middle">RIGHT</text>
     <rect
        rx="6"
        ry="6"
@@ -1118,13 +1252,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect87" />
+       id="rect87-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="491.65308"
        class="tap"
-       style="font-size:88%"
-       id="text88">CAPSLOCK</text>
+       style="font-size:88%;dominant-baseline:middle;text-anchor:middle"
+       id="text88-2">CAPSLOCK</text>
     <rect
        rx="6"
        ry="6"
@@ -1133,12 +1268,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect88" />
+       id="rect88-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="491.65308"
        class="tap"
-       id="text89">=</text>
+       id="text89-0"
+       style="dominant-baseline:middle;text-anchor:middle">=</text>
     <rect
        rx="6"
        ry="6"
@@ -1147,12 +1284,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect89" />
+       id="rect89-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="547.65308"
        class="trans tap"
-       id="text90">▽</text>
+       id="text90-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1161,12 +1300,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect90" />
+       id="rect90-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="547.65308"
        class="trans tap"
-       id="text91">▽</text>
+       id="text91-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1175,12 +1316,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect91" />
+       id="rect91-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="533.65308"
        class="trans tap"
-       id="text92">▽</text>
+       id="text92-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1189,12 +1332,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect92" />
+       id="rect92-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="526.65308"
        class="trans tap"
-       id="text93">▽</text>
+       id="text93-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1203,12 +1348,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect93" />
+       id="rect93-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="533.65308"
        class="trans tap"
-       id="text94">▽</text>
+       id="text94-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1217,12 +1364,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect94" />
+       id="rect94-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="540.65308"
        class="trans tap"
-       id="text95">▽</text>
+       id="text95-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1231,12 +1380,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect95" />
+       id="rect95-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="540.65308"
        class="tap"
-       id="text96">INSERT</text>
+       id="text96-7"
+       style="dominant-baseline:middle;text-anchor:middle">INSERT</text>
     <rect
        rx="6"
        ry="6"
@@ -1245,12 +1396,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect96" />
+       id="rect96-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="533.65308"
        class="tap"
-       id="text97">HOME</text>
+       id="text97-9"
+       style="dominant-baseline:middle;text-anchor:middle">HOME</text>
     <rect
        rx="6"
        ry="6"
@@ -1259,18 +1412,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect97" />
+       id="rect97-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="526.65308"
        class="tap"
-       id="text98"><tspan
+       id="text98-1"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="674"
          dy="-0.60000002em"
-         id="tspan97">PAGE</tspan><tspan
+         id="tspan97-9">PAGE</tspan><tspan
          x="674"
          dy="1.2em"
-         id="tspan98">DOWN</tspan></text>
+         id="tspan98-0">DOWN</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1279,18 +1434,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect98" />
+       id="rect98-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="533.65308"
        class="tap"
-       id="text100"><tspan
+       id="text100-9"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="730"
          dy="-0.60000002em"
-         id="tspan99">PAGE</tspan><tspan
+         id="tspan99-8">PAGE</tspan><tspan
          x="730"
          dy="1.2em"
-         id="tspan100">UP</tspan></text>
+         id="tspan100-8">UP</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1299,12 +1456,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect100" />
+       id="rect100-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="547.65308"
        class="tap"
-       id="text101">END</text>
+       id="text101-3"
+       style="dominant-baseline:middle;text-anchor:middle">END</text>
     <rect
        rx="6"
        ry="6"
@@ -1313,18 +1472,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect101" />
+       id="rect101-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="547.65308"
        class="tap"
-       id="text102"><tspan
+       id="text102-0"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="842"
          dy="-0.60000002em"
-         id="tspan101">RIGHT</tspan><tspan
+         id="tspan101-6">RIGHT</tspan><tspan
          x="842"
          dy="1.2em"
-         id="tspan102">SHIFT</tspan></text>
+         id="tspan102-9">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1333,15 +1494,17 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect102" />
+       id="rect102-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="254"
        y="591.50104"
        class="trans tap"
-       id="text103">▽</text>
+       id="text103-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <g
        transform="rotate(15,315.6,599.73307)"
-       id="g103">
+       id="g103-7">
       <rect
          rx="6"
          ry="6"
@@ -1350,11 +1513,12 @@
          width="52"
          height="52"
          class="held key"
-         id="rect103" />
+         id="rect103-7"
+         style="fill:#ffdddd;stroke:#c9cccf;stroke-width:1" />
     </g>
     <g
        transform="rotate(30,381.12,610.93307)"
-       id="g104">
+       id="g104-9">
       <rect
          rx="6"
          ry="6"
@@ -1363,16 +1527,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect104" />
+         id="rect104-7"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="381.12"
          y="610.93304"
          class="trans tap"
-         id="text104">▽</text>
+         id="text104-6"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-30,518.88,610.93307)"
-       id="g105">
+       id="g105-2">
       <rect
          rx="6"
          ry="6"
@@ -1381,16 +1547,18 @@
          width="52"
          height="80"
          class="key"
-         id="rect105" />
+         id="rect105-7"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="518.88"
          y="610.93304"
          class="tap"
-         id="text105">RET</text>
+         id="text105-1"
+         style="dominant-baseline:middle;text-anchor:middle">RET</text>
     </g>
     <g
        transform="rotate(-15,584.4,599.73307)"
-       id="g106">
+       id="g106-5">
       <rect
          rx="6"
          ry="6"
@@ -1399,13 +1567,14 @@
          width="52"
          height="52"
          class="key"
-         id="rect106" />
+         id="rect106-8"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="584.40002"
          y="599.73309"
          class="tap"
-         style="font-size:78%"
-         id="text106">BACKSPACE</text>
+         style="font-size:78%;dominant-baseline:middle;text-anchor:middle"
+         id="text106-8">BACKSPACE</text>
     </g>
     <rect
        rx="6"
@@ -1415,23 +1584,25 @@
        width="52"
        height="52"
        class="key"
-       id="rect107" />
+       id="rect107-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="646"
        y="591.50104"
        class="tap"
-       id="text107">DELETE</text>
+       id="text107-5"
+       style="dominant-baseline:middle;text-anchor:middle">DELETE</text>
   </g>
   <g
      class="layer-Mouse"
-     id="g154"
-     transform="translate(-9.916016,-329.3458)">
+     id="g153-6"
+     transform="translate(-9.8720704,-330.12612)">
     <text
        x="30"
        y="689.30615"
        class="label"
-       id="text108"
-       style="font-size:32px">Mouse:</text>
+       id="text108-5"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">Mouse:</text>
     <rect
        rx="6"
        ry="6"
@@ -1440,12 +1611,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect108" />
+       id="rect108-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="766.30615"
        class="tap"
-       id="text109">TAB</text>
+       id="text109-8"
+       style="dominant-baseline:middle;text-anchor:middle">TAB</text>
     <rect
        rx="6"
        ry="6"
@@ -1454,12 +1627,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect109" />
+       id="rect109-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="766.30615"
        class="trans tap"
-       id="text110">▽</text>
+       id="text110-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1468,12 +1643,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect110" />
+       id="rect110-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="752.30615"
        class="trans tap"
-       id="text111">▽</text>
+       id="text111-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1482,12 +1659,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect111" />
+       id="rect111-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="745.30615"
        class="trans tap"
-       id="text112">▽</text>
+       id="text112-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1496,12 +1675,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect112" />
+       id="rect112-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="752.30615"
        class="trans tap"
-       id="text113">▽</text>
+       id="text113-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1510,12 +1691,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect113" />
+       id="rect113-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="759.30615"
        class="trans tap"
-       id="text114">▽</text>
+       id="text114-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1524,12 +1707,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect114" />
+       id="rect114-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="759.30615"
        class="tap"
-       id="text115">REDO</text>
+       id="text115-5"
+       style="dominant-baseline:middle;text-anchor:middle">REDO</text>
     <rect
        rx="6"
        ry="6"
@@ -1538,12 +1723,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect115" />
+       id="rect115-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="752.30615"
        class="tap"
-       id="text116">PASTE</text>
+       id="text116-3"
+       style="dominant-baseline:middle;text-anchor:middle">PASTE</text>
     <rect
        rx="6"
        ry="6"
@@ -1552,12 +1739,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect116" />
+       id="rect116-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="745.30615"
        class="tap"
-       id="text117">COPY</text>
+       id="text117-7"
+       style="dominant-baseline:middle;text-anchor:middle">COPY</text>
     <rect
        rx="6"
        ry="6"
@@ -1566,12 +1755,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect117" />
+       id="rect117-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="752.30615"
        class="tap"
-       id="text118">CUT</text>
+       id="text118-1"
+       style="dominant-baseline:middle;text-anchor:middle">CUT</text>
     <rect
        rx="6"
        ry="6"
@@ -1580,12 +1771,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect118" />
+       id="rect118-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="766.30615"
        class="tap"
-       id="text119">UNDO</text>
+       id="text119-4"
+       style="dominant-baseline:middle;text-anchor:middle">UNDO</text>
     <rect
        rx="6"
        ry="6"
@@ -1594,12 +1787,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect119" />
+       id="rect119-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="766.30615"
        class="trans tap"
-       id="text120">▽</text>
+       id="text120-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1608,12 +1803,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect120" />
+       id="rect120-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="822.30615"
        class="tap"
-       id="text121">LCTRL</text>
+       id="text121-9"
+       style="dominant-baseline:middle;text-anchor:middle">LCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -1622,18 +1819,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect121" />
+       id="rect121-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="822.30615"
        class="tap"
-       id="text122"><tspan
+       id="text122-7"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="114"
          dy="-0.60000002em"
-         id="tspan121">LEFT</tspan><tspan
+         id="tspan121-4">LEFT</tspan><tspan
          x="114"
          dy="1.2em"
-         id="tspan122">GUI</tspan></text>
+         id="tspan122-1">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1642,18 +1841,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect122" />
+       id="rect122-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="808.30615"
        class="tap"
-       id="text124"><tspan
+       id="text124-2"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="170"
          dy="-0.60000002em"
-         id="tspan123">LEFT</tspan><tspan
+         id="tspan123-1">LEFT</tspan><tspan
          x="170"
          dy="1.2em"
-         id="tspan124">ALT</tspan></text>
+         id="tspan124-6">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1662,18 +1863,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect124" />
+       id="rect124-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="801.30615"
        class="tap"
-       id="text126"><tspan
+       id="text126-0"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="226"
          dy="-0.60000002em"
-         id="tspan125">LEFT</tspan><tspan
+         id="tspan125-2">LEFT</tspan><tspan
          x="226"
          dy="1.2em"
-         id="tspan126">CONTROL</tspan></text>
+         id="tspan126-2">CONTROL</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1682,18 +1885,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect126" />
+       id="rect126-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="808.30615"
        class="tap"
-       id="text128"><tspan
+       id="text128-7"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="282"
          dy="-0.60000002em"
-         id="tspan127">LEFT</tspan><tspan
+         id="tspan127-4">LEFT</tspan><tspan
          x="282"
          dy="1.2em"
-         id="tspan128">SHIFT</tspan></text>
+         id="tspan128-3">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -1702,12 +1907,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect128" />
+       id="rect128-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="815.30615"
        class="trans tap"
-       id="text129">▽</text>
+       id="text129-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1716,12 +1923,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect129" />
+       id="rect129-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="815.30615"
        class="tap"
-       id="text130">LEFT</text>
+       id="text130-4"
+       style="dominant-baseline:middle;text-anchor:middle">LEFT</text>
     <rect
        rx="6"
        ry="6"
@@ -1730,18 +1939,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect130" />
+       id="rect130-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="808.30615"
        class="tap"
-       id="text131"><tspan
-         x="618"
-         dy="-0.60000002em"
-         id="tspan130">DOWN</tspan><tspan
-         x="618"
-         dy="1.2em"
-         id="tspan131">ARROW</tspan></text>
+       id="text131-3"
+       style="dominant-baseline:middle;text-anchor:middle">DOWN</text>
     <rect
        rx="6"
        ry="6"
@@ -1750,18 +1955,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect131" />
+       id="rect131-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="801.30615"
        class="tap"
-       id="text133"><tspan
-         x="674"
-         dy="-0.60000002em"
-         id="tspan132">UP</tspan><tspan
-         x="674"
-         dy="1.2em"
-         id="tspan133">ARROW</tspan></text>
+       id="text132"
+       style="dominant-baseline:middle;text-anchor:middle">UP</text>
     <rect
        rx="6"
        ry="6"
@@ -1770,12 +1971,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect133" />
+       id="rect132"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="808.30615"
        class="tap"
-       id="text134">RIGHT</text>
+       id="text133-2"
+       style="dominant-baseline:middle;text-anchor:middle">RIGHT</text>
     <rect
        rx="6"
        ry="6"
@@ -1784,12 +1987,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect134" />
+       id="rect133-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="822.30615"
        class="trans tap"
-       id="text135">▽</text>
+       id="text134-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1798,12 +2003,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect135" />
+       id="rect134-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="822.30615"
        class="trans tap"
-       id="text136">▽</text>
+       id="text135-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1812,12 +2019,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect136" />
+       id="rect135-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="878.30615"
        class="tap"
-       id="text137">LSHFT</text>
+       id="text136-0"
+       style="dominant-baseline:middle;text-anchor:middle">LSHFT</text>
     <rect
        rx="6"
        ry="6"
@@ -1826,12 +2035,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect137" />
+       id="rect136-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="878.30615"
        class="trans tap"
-       id="text138">▽</text>
+       id="text137-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1840,12 +2051,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect138" />
+       id="rect137-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="864.30615"
        class="trans tap"
-       id="text139">▽</text>
+       id="text138-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1854,12 +2067,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect139" />
+       id="rect138-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="857.30615"
        class="trans tap"
-       id="text140">▽</text>
+       id="text139-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1868,12 +2083,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect140" />
+       id="rect139-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="864.30615"
        class="trans tap"
-       id="text141">▽</text>
+       id="text140-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1882,12 +2099,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect141" />
+       id="rect140-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="871.30615"
        class="trans tap"
-       id="text142">▽</text>
+       id="text141-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1896,12 +2115,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect142" />
+       id="rect141-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="871.30615"
        class="trans tap"
-       id="text143">▽</text>
+       id="text142-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1910,12 +2131,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect143" />
+       id="rect142-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="864.30615"
        class="trans tap"
-       id="text144">▽</text>
+       id="text143-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1924,12 +2147,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect144" />
+       id="rect143-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="857.30615"
        class="trans tap"
-       id="text145">▽</text>
+       id="text144-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1938,12 +2163,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect145" />
+       id="rect144-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="864.30615"
        class="trans tap"
-       id="text146">▽</text>
+       id="text145-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1952,12 +2179,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect146" />
+       id="rect145-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="878.30615"
        class="trans tap"
-       id="text147">▽</text>
+       id="text146-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1966,12 +2195,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect147" />
+       id="rect146-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="878.30615"
        class="trans tap"
-       id="text148">▽</text>
+       id="text147-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -1980,15 +2211,17 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect148" />
+       id="rect147-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="254"
        y="922.15411"
        class="trans tap"
-       id="text149">▽</text>
+       id="text148-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <g
        transform="rotate(15,315.6,930.38613)"
-       id="g150">
+       id="g149">
       <rect
          rx="6"
          ry="6"
@@ -1997,16 +2230,18 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect149" />
+         id="rect148-9"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="315.60001"
          y="930.38611"
          class="trans tap"
-         id="text150">▽</text>
+         id="text149-1"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(30,381.12,941.58613)"
-       id="g151">
+       id="g150-2">
       <rect
          rx="6"
          ry="6"
@@ -2015,11 +2250,12 @@
          width="52"
          height="80"
          class="held key"
-         id="rect150" />
+         id="rect149-8"
+         style="fill:#ffdddd;stroke:#c9cccf;stroke-width:1" />
     </g>
     <g
        transform="rotate(-30,518.88,941.58613)"
-       id="g152">
+       id="g151-9">
       <rect
          rx="6"
          ry="6"
@@ -2028,16 +2264,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect151" />
+         id="rect150-6"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="518.88"
          y="941.58612"
          class="trans tap"
-         id="text151">▽</text>
+         id="text150-0"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-15,584.4,930.38613)"
-       id="g153">
+       id="g152-6">
       <rect
          rx="6"
          ry="6"
@@ -2046,12 +2284,14 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect152" />
+         id="rect151-4"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="584.40002"
          y="930.38611"
          class="trans tap"
-         id="text152">▽</text>
+         id="text151-0"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <rect
        rx="6"
@@ -2061,23 +2301,25 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect153" />
+       id="rect152-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="646"
        y="922.15411"
        class="trans tap"
-       id="text153">▽</text>
+       id="text152-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
   </g>
   <g
      class="layer-Button"
-     id="g200"
-     transform="translate(938.30829,-995.88848)">
+     id="g199-5"
+     transform="translate(938.19208,-997.51543)">
     <text
        x="30"
        y="1019.9592"
        class="label"
-       id="text154"
-       style="font-size:32px">Button:</text>
+       id="text153-4"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">Button:</text>
     <rect
        rx="6"
        ry="6"
@@ -2086,12 +2328,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect154" />
+       id="rect153-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1096.9592"
        class="trans tap"
-       id="text155">▽</text>
+       id="text154-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2100,12 +2344,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect155" />
+       id="rect154-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1096.9592"
        class="tap"
-       id="text156">UNDO</text>
+       id="text155-9"
+       style="dominant-baseline:middle;text-anchor:middle">UNDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2114,12 +2360,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect156" />
+       id="rect155-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1082.9592"
        class="tap"
-       id="text157">CUT</text>
+       id="text156-5"
+       style="dominant-baseline:middle;text-anchor:middle">CUT</text>
     <rect
        rx="6"
        ry="6"
@@ -2128,12 +2376,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect157" />
+       id="rect156-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1075.9592"
        class="tap"
-       id="text158">COPY</text>
+       id="text157-1"
+       style="dominant-baseline:middle;text-anchor:middle">COPY</text>
     <rect
        rx="6"
        ry="6"
@@ -2142,12 +2392,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect158" />
+       id="rect157-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1082.9592"
        class="tap"
-       id="text159">PASTE</text>
+       id="text158-0"
+       style="dominant-baseline:middle;text-anchor:middle">PASTE</text>
     <rect
        rx="6"
        ry="6"
@@ -2156,12 +2408,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect159" />
+       id="rect158-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1089.9592"
        class="tap"
-       id="text160">REDO</text>
+       id="text159-9"
+       style="dominant-baseline:middle;text-anchor:middle">REDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2170,12 +2424,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect160" />
+       id="rect159-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1089.9592"
        class="tap"
-       id="text161">REDO</text>
+       id="text160-3"
+       style="dominant-baseline:middle;text-anchor:middle">REDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2184,12 +2440,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect161" />
+       id="rect160-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1082.9592"
        class="tap"
-       id="text162">PASTE</text>
+       id="text161-5"
+       style="dominant-baseline:middle;text-anchor:middle">PASTE</text>
     <rect
        rx="6"
        ry="6"
@@ -2198,12 +2456,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect162" />
+       id="rect161-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1075.9592"
        class="tap"
-       id="text163">COPY</text>
+       id="text162-5"
+       style="dominant-baseline:middle;text-anchor:middle">COPY</text>
     <rect
        rx="6"
        ry="6"
@@ -2212,12 +2472,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect163" />
+       id="rect162-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1082.9592"
        class="tap"
-       id="text164">CUT</text>
+       id="text163-3"
+       style="dominant-baseline:middle;text-anchor:middle">CUT</text>
     <rect
        rx="6"
        ry="6"
@@ -2226,12 +2488,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect164" />
+       id="rect163-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1096.9592"
        class="tap"
-       id="text165">UNDO</text>
+       id="text164-8"
+       style="dominant-baseline:middle;text-anchor:middle">UNDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2240,12 +2504,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect165" />
+       id="rect164-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1096.9592"
        class="tap"
-       id="text166">DEL</text>
+       id="text165-5"
+       style="dominant-baseline:middle;text-anchor:middle">DEL</text>
     <rect
        rx="6"
        ry="6"
@@ -2254,12 +2520,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect166" />
+       id="rect165-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1152.9592"
        class="trans tap"
-       id="text167">▽</text>
+       id="text166-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2268,18 +2536,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect167" />
+       id="rect166-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1152.9592"
        class="tap"
-       id="text168"><tspan
+       id="text167-6"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="114"
          dy="-0.60000002em"
-         id="tspan167">LEFT</tspan><tspan
+         id="tspan166">LEFT</tspan><tspan
          x="114"
          dy="1.2em"
-         id="tspan168">GUI</tspan></text>
+         id="tspan167-0">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2288,18 +2558,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect168" />
+       id="rect167-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1138.9592"
        class="tap"
-       id="text170"><tspan
+       id="text169"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="170"
          dy="-0.60000002em"
-         id="tspan169">LEFT</tspan><tspan
+         id="tspan168-3">LEFT</tspan><tspan
          x="170"
          dy="1.2em"
-         id="tspan170">ALT</tspan></text>
+         id="tspan169-6">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2308,18 +2580,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect170" />
+       id="rect169"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1131.9592"
        class="tap"
-       id="text172"><tspan
+       id="text171"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="226"
          dy="-0.60000002em"
-         id="tspan171">LEFT</tspan><tspan
+         id="tspan170-1">LEFT</tspan><tspan
          x="226"
          dy="1.2em"
-         id="tspan172">CONTROL</tspan></text>
+         id="tspan171-8">CONTROL</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2328,18 +2602,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect172" />
+       id="rect171"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1138.9592"
        class="tap"
-       id="text174"><tspan
+       id="text173"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="282"
          dy="-0.60000002em"
-         id="tspan173">LEFT</tspan><tspan
+         id="tspan172-7">LEFT</tspan><tspan
          x="282"
          dy="1.2em"
-         id="tspan174">SHIFT</tspan></text>
+         id="tspan173-0">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2348,12 +2624,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect174" />
+       id="rect173"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1145.9592"
        class="trans tap"
-       id="text175">▽</text>
+       id="text174-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2362,12 +2640,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect175" />
+       id="rect174-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1145.9592"
        class="trans tap"
-       id="text176">▽</text>
+       id="text175-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2376,18 +2656,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect176" />
+       id="rect175-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1138.9592"
        class="tap"
-       id="text177"><tspan
+       id="text176-3"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="618"
          dy="-0.60000002em"
-         id="tspan176">RIGHT</tspan><tspan
+         id="tspan175">RIGHT</tspan><tspan
          x="618"
          dy="1.2em"
-         id="tspan177">SHIFT</tspan></text>
+         id="tspan176-0">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2396,12 +2678,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect177" />
+       id="rect176-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1131.9592"
        class="tap"
-       id="text178">RCTRL</text>
+       id="text177-4"
+       style="dominant-baseline:middle;text-anchor:middle">RCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -2410,18 +2694,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect178" />
+       id="rect177-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1138.9592"
        class="tap"
-       id="text179"><tspan
+       id="text178-4"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="730"
          dy="-0.60000002em"
-         id="tspan178">RIGHT</tspan><tspan
+         id="tspan177-2">RIGHT</tspan><tspan
          x="730"
          dy="1.2em"
-         id="tspan179">ALT</tspan></text>
+         id="tspan178-4">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2430,18 +2716,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect179" />
+       id="rect178-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1152.9592"
        class="tap"
-       id="text181"><tspan
+       id="text180"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="786"
          dy="-0.60000002em"
-         id="tspan180">RIGHT</tspan><tspan
+         id="tspan179-9">RIGHT</tspan><tspan
          x="786"
          dy="1.2em"
-         id="tspan181">GUI</tspan></text>
+         id="tspan180-9">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2450,12 +2738,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect181" />
+       id="rect180"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1152.9592"
        class="trans tap"
-       id="text182">▽</text>
+       id="text181-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2464,12 +2754,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect182" />
+       id="rect181-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1208.9592"
        class="trans tap"
-       id="text183">▽</text>
+       id="text182-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2478,12 +2770,14 @@
        width="52"
        height="52"
        class="held key"
-       id="rect183" />
+       id="rect182-1"
+       style="fill:#ffdddd;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1208.9592"
        class="held tap"
-       id="text184" />
+       id="text183-6"
+       style="dominant-baseline:middle;text-anchor:middle">UNDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2492,12 +2786,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect184" />
+       id="rect183-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1194.9592"
        class="tap"
-       id="text185">CUT</text>
+       id="text184-9"
+       style="dominant-baseline:middle;text-anchor:middle">CUT</text>
     <rect
        rx="6"
        ry="6"
@@ -2506,12 +2802,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect185" />
+       id="rect184-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1187.9592"
        class="tap"
-       id="text186">COPY</text>
+       id="text185-3"
+       style="dominant-baseline:middle;text-anchor:middle">COPY</text>
     <rect
        rx="6"
        ry="6"
@@ -2520,12 +2818,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect186" />
+       id="rect185-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1194.9592"
        class="tap"
-       id="text187">PASTE</text>
+       id="text186-6"
+       style="dominant-baseline:middle;text-anchor:middle">PASTE</text>
     <rect
        rx="6"
        ry="6"
@@ -2534,12 +2834,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect187" />
+       id="rect186-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1201.9592"
        class="tap"
-       id="text188">REDO</text>
+       id="text187-5"
+       style="dominant-baseline:middle;text-anchor:middle">REDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2548,12 +2850,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect188" />
+       id="rect187-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1201.9592"
        class="tap"
-       id="text189">REDO</text>
+       id="text188-1"
+       style="dominant-baseline:middle;text-anchor:middle">REDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2562,12 +2866,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect189" />
+       id="rect188-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1194.9592"
        class="tap"
-       id="text190">PASTE</text>
+       id="text189-2"
+       style="dominant-baseline:middle;text-anchor:middle">PASTE</text>
     <rect
        rx="6"
        ry="6"
@@ -2576,12 +2882,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect190" />
+       id="rect189-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1187.9592"
        class="tap"
-       id="text191">COPY</text>
+       id="text190-9"
+       style="dominant-baseline:middle;text-anchor:middle">COPY</text>
     <rect
        rx="6"
        ry="6"
@@ -2590,12 +2898,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect191" />
+       id="rect190-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1194.9592"
        class="tap"
-       id="text192">CUT</text>
+       id="text191-8"
+       style="dominant-baseline:middle;text-anchor:middle">CUT</text>
     <rect
        rx="6"
        ry="6"
@@ -2604,13 +2914,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect192"
-       style="fill:#ffdddd;fill-opacity:1" />
+       id="rect191-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1208.9592"
        class="tap"
-       id="text193" />
+       id="text192-2"
+       style="dominant-baseline:middle;text-anchor:middle">UNDO</text>
     <rect
        rx="6"
        ry="6"
@@ -2619,12 +2930,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect193" />
+       id="rect192-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1208.9592"
        class="trans tap"
-       id="text194">▽</text>
+       id="text193-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2633,15 +2946,17 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect194" />
+       id="rect193-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="254"
        y="1252.8073"
        class="trans tap"
-       id="text195">▽</text>
+       id="text194-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <g
        transform="rotate(15,315.6,1261.0392)"
-       id="g196">
+       id="g195">
       <rect
          rx="6"
          ry="6"
@@ -2650,16 +2965,18 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect195" />
+         id="rect194-3"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="315.60001"
          y="1261.0392"
          class="trans tap"
-         id="text196">▽</text>
+         id="text195-7"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(30,381.12,1272.2392)"
-       id="g197">
+       id="g196-7">
       <rect
          rx="6"
          ry="6"
@@ -2668,16 +2985,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect196" />
+         id="rect195-2"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="381.12"
          y="1272.2393"
          class="trans tap"
-         id="text197">▽</text>
+         id="text196-3"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-30,518.88,1272.2392)"
-       id="g198">
+       id="g197-7">
       <rect
          rx="6"
          ry="6"
@@ -2686,16 +3005,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect197" />
+         id="rect196-2"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="518.88"
          y="1272.2393"
          class="trans tap"
-         id="text198">▽</text>
+         id="text197-5"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-15,584.4,1261.0392)"
-       id="g199">
+       id="g198-3">
       <rect
          rx="6"
          ry="6"
@@ -2704,12 +3025,14 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect198" />
+         id="rect197-7"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="584.40002"
          y="1261.0392"
          class="trans tap"
-         id="text199">▽</text>
+         id="text198-6"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <rect
        rx="6"
@@ -2719,23 +3042,25 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect199" />
+       id="rect198-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="646"
        y="1252.8073"
        class="trans tap"
-       id="text200">▽</text>
+       id="text199-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
   </g>
   <g
      class="layer-Media"
-     id="g251"
-     transform="translate(-11.228516,-329.57807)">
+     id="g250-3"
+     transform="translate(-9.8720701,-329.35351)">
     <text
        x="30"
        y="1350.6123"
        class="label"
-       id="text201"
-       style="font-size:32px">Media:</text>
+       id="text200-6"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">Media:</text>
     <rect
        rx="6"
        ry="6"
@@ -2744,12 +3069,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect201" />
+       id="rect200"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1427.6123"
        class="trans tap"
-       id="text202">▽</text>
+       id="text201-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2758,12 +3085,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect202" />
+       id="rect201-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1427.6123"
        class="trans tap"
-       id="text203">▽</text>
+       id="text202-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2772,12 +3101,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect203" />
+       id="rect202-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1413.6123"
        class="trans tap"
-       id="text204">▽</text>
+       id="text203-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2786,12 +3117,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect204" />
+       id="rect203-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1406.6123"
        class="trans tap"
-       id="text205">▽</text>
+       id="text204-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2800,12 +3133,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect205" />
+       id="rect204-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1413.6123"
        class="trans tap"
-       id="text206">▽</text>
+       id="text205-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2814,12 +3149,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect206" />
+       id="rect205-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1420.6123"
        class="trans tap"
-       id="text207">▽</text>
+       id="text206-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2828,12 +3165,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect207" />
+       id="rect206-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1420.6123"
        class="trans tap"
-       id="text208">▽</text>
+       id="text207-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2842,12 +3181,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect208" />
+       id="rect207-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1413.6123"
        class="trans tap"
-       id="text209">▽</text>
+       id="text208-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2856,12 +3197,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect209" />
+       id="rect208-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1406.6123"
        class="trans tap"
-       id="text210">▽</text>
+       id="text209-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2870,12 +3213,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect210" />
+       id="rect209-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1413.6123"
        class="trans tap"
-       id="text211">▽</text>
+       id="text210-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2884,12 +3229,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect211" />
+       id="rect210-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1427.6123"
        class="trans tap"
-       id="text212">▽</text>
+       id="text211-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2898,12 +3245,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect212" />
+       id="rect211-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1427.6123"
        class="trans tap"
-       id="text213">▽</text>
+       id="text212-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2912,12 +3261,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect213" />
+       id="rect212-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1483.6123"
        class="trans tap"
-       id="text214">▽</text>
+       id="text213-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -2926,18 +3277,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect214" />
+       id="rect213-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1483.6123"
        class="tap"
-       id="text215"><tspan
+       id="text214-7"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="114"
          dy="-0.60000002em"
-         id="tspan214">LEFT</tspan><tspan
+         id="tspan213">LEFT</tspan><tspan
          x="114"
          dy="1.2em"
-         id="tspan215">GUI</tspan></text>
+         id="tspan214-3">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2946,18 +3299,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect215" />
+       id="rect214-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1469.6123"
        class="tap"
-       id="text217"><tspan
+       id="text216"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="170"
          dy="-0.60000002em"
-         id="tspan216">LEFT</tspan><tspan
+         id="tspan215-0">LEFT</tspan><tspan
          x="170"
          dy="1.2em"
-         id="tspan217">ALT</tspan></text>
+         id="tspan216-0">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2966,18 +3321,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect217" />
+       id="rect216"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1462.6123"
        class="tap"
-       id="text219"><tspan
+       id="text218"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="226"
          dy="-0.60000002em"
-         id="tspan218">LEFT</tspan><tspan
+         id="tspan217-5">LEFT</tspan><tspan
          x="226"
          dy="1.2em"
-         id="tspan219">CONTROL</tspan></text>
+         id="tspan218-0">CONTROL</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -2986,18 +3343,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect219" />
+       id="rect218"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1469.6123"
        class="tap"
-       id="text221"><tspan
+       id="text220"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="282"
          dy="-0.60000002em"
-         id="tspan220">LEFT</tspan><tspan
+         id="tspan219-3">LEFT</tspan><tspan
          x="282"
          dy="1.2em"
-         id="tspan221">SHIFT</tspan></text>
+         id="tspan220-1">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -3006,12 +3365,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect221" />
+       id="rect220"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1476.6123"
        class="trans tap"
-       id="text222">▽</text>
+       id="text221-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3020,12 +3381,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect222" />
+       id="rect221-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1476.6123"
        class="trans tap"
-       id="text223">▽</text>
+       id="text222-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3033,13 +3396,21 @@
        y="1443.6123"
        width="52"
        height="52"
-       class="trans key"
-       id="rect223" />
+       class="key"
+       id="rect222-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1469.6123"
-       class="trans tap"
-       id="text224">▽</text>
+       class="tap"
+       id="text223-9"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
+         x="618"
+         dy="-0.60000002em"
+         id="tspan222">VOLUME</tspan><tspan
+         x="618"
+         dy="1.2em"
+         id="tspan223">DOWN</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -3048,18 +3419,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect224" />
+       id="rect223-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1462.6123"
        class="tap"
-       id="text225"><tspan
+       id="text225-0"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="674"
          dy="-0.60000002em"
-         id="tspan224">VOLUME</tspan><tspan
+         id="tspan224-3">VOLUME</tspan><tspan
          x="674"
          dy="1.2em"
-         id="tspan225">DOWN</tspan></text>
+         id="tspan225-5">UP</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -3067,19 +3440,15 @@
        y="1443.6123"
        width="52"
        height="52"
-       class="key"
-       id="rect225" />
+       class="trans key"
+       id="rect225-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1469.6123"
-       class="tap"
-       id="text227"><tspan
-         x="730"
-         dy="-0.60000002em"
-         id="tspan226">VOLUME</tspan><tspan
-         x="730"
-         dy="1.2em"
-         id="tspan227">UP</tspan></text>
+       class="trans tap"
+       id="text226"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3088,12 +3457,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect227" />
+       id="rect226"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1483.6123"
        class="trans tap"
-       id="text228">▽</text>
+       id="text227-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3102,12 +3473,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect228" />
+       id="rect227-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1483.6123"
        class="trans tap"
-       id="text229">▽</text>
+       id="text228-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3116,12 +3489,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect229" />
+       id="rect228-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1539.6123"
        class="trans tap"
-       id="text230">▽</text>
+       id="text229-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3130,12 +3505,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect230" />
+       id="rect229-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1539.6123"
        class="trans tap"
-       id="text231">▽</text>
+       id="text230-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3144,12 +3521,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect231" />
+       id="rect230-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1525.6123"
        class="trans tap"
-       id="text232">▽</text>
+       id="text231-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3158,12 +3537,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect232" />
+       id="rect231-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1518.6123"
        class="trans tap"
-       id="text233">▽</text>
+       id="text232-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3172,12 +3553,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect233" />
+       id="rect232-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1525.6123"
        class="trans tap"
-       id="text234">▽</text>
+       id="text233-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3186,12 +3569,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect234" />
+       id="rect233-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1532.6123"
        class="trans tap"
-       id="text235">▽</text>
+       id="text234-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3200,18 +3585,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect235" />
+       id="rect234-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1532.6123"
        class="tap"
-       id="text236"><tspan
+       id="text235-9"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="562"
          dy="-0.60000002em"
-         id="tspan235">BT</tspan><tspan
+         id="tspan234">BT</tspan><tspan
          x="562"
          dy="1.2em"
-         id="tspan236">CLR</tspan></text>
+         id="tspan235-1">CLR</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -3220,17 +3607,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect236" />
+       id="rect235-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1525.6123"
        class="tap"
-       id="text237">BT</text>
+       id="text236-4"
+       style="dominant-baseline:middle;text-anchor:middle">BT</text>
     <text
        x="618"
        y="1549.6123"
        class="hold"
-       id="text238">0</text>
+       id="text237-2"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">0</text>
     <rect
        rx="6"
        ry="6"
@@ -3239,17 +3629,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect238" />
+       id="rect237"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1518.6123"
        class="tap"
-       id="text239">BT</text>
+       id="text238-0"
+       style="dominant-baseline:middle;text-anchor:middle">BT</text>
     <text
        x="674"
        y="1542.6123"
        class="hold"
-       id="text240">1</text>
+       id="text239-6"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">1</text>
     <rect
        rx="6"
        ry="6"
@@ -3258,17 +3651,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect240" />
+       id="rect239"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1525.6123"
        class="tap"
-       id="text241">BT</text>
+       id="text240-5"
+       style="dominant-baseline:middle;text-anchor:middle">BT</text>
     <text
        x="730"
        y="1549.6123"
        class="hold"
-       id="text242">2</text>
+       id="text241-9"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">2</text>
     <rect
        rx="6"
        ry="6"
@@ -3277,17 +3673,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect242" />
+       id="rect241"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1539.6123"
        class="tap"
-       id="text243">BT</text>
+       id="text242-5"
+       style="dominant-baseline:middle;text-anchor:middle">BT</text>
     <text
        x="786"
        y="1563.6123"
        class="hold"
-       id="text244">3</text>
+       id="text243-6"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">3</text>
     <rect
        rx="6"
        ry="6"
@@ -3296,17 +3695,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect244" />
+       id="rect243"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1539.6123"
        class="tap"
-       id="text245">BT</text>
+       id="text244-1"
+       style="dominant-baseline:middle;text-anchor:middle">BT</text>
     <text
        x="842"
        y="1563.6123"
        class="hold"
-       id="text246">4</text>
+       id="text245-1"
+       style="font-size:11px;dominant-baseline:auto;text-anchor:middle">4</text>
     <rect
        rx="6"
        ry="6"
@@ -3315,10 +3717,11 @@
        width="52"
        height="52"
        class="held key"
-       id="rect246" />
+       id="rect245"
+       style="fill:#ffdddd;stroke:#c9cccf;stroke-width:1" />
     <g
        transform="rotate(15,315.6,1591.6923)"
-       id="g247">
+       id="g246">
       <rect
          rx="6"
          ry="6"
@@ -3327,16 +3730,18 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect247" />
+         id="rect246-4"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="315.60001"
          y="1591.6923"
          class="trans tap"
-         id="text247">▽</text>
+         id="text246-3"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(30,381.12,1602.8923)"
-       id="g248">
+       id="g247-7">
       <rect
          rx="6"
          ry="6"
@@ -3345,16 +3750,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect248" />
+         id="rect247-2"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="381.12"
          y="1602.8922"
          class="trans tap"
-         id="text248">▽</text>
+         id="text247-7"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-30,518.88,1602.8923)"
-       id="g249">
+       id="g248-3">
       <rect
          rx="6"
          ry="6"
@@ -3363,16 +3770,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect249" />
+         id="rect248-3"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="518.88"
          y="1602.8922"
          class="trans tap"
-         id="text249">▽</text>
+         id="text248-9"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-15,584.4,1591.6923)"
-       id="g250">
+       id="g249-2">
       <rect
          rx="6"
          ry="6"
@@ -3381,12 +3790,14 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect250" />
+         id="rect249-4"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="584.40002"
          y="1591.6923"
          class="trans tap"
-         id="text250">▽</text>
+         id="text249-4"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <rect
        rx="6"
@@ -3396,23 +3807,25 @@
        width="52"
        height="52"
        class="key"
-       id="rect251" />
+       id="rect250-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="646"
        y="1583.4603"
        class="tap"
-       id="text251">MUTE</text>
+       id="text250-9"
+       style="dominant-baseline:middle;text-anchor:middle">MUTE</text>
   </g>
   <g
      class="layer-Num"
-     id="g295"
-     transform="translate(950.47566,-990.67334)">
+     id="g294-9"
+     transform="translate(938.43133,-991.45361)">
     <text
        x="30"
        y="1681.2654"
        class="label"
-       id="text252"
-       style="font-size:32px">Num:</text>
+       id="text251-3"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">Num:</text>
     <rect
        rx="6"
        ry="6"
@@ -3421,12 +3834,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect252" />
+       id="rect251-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1758.2654"
        class="trans tap"
-       id="text253">▽</text>
+       id="text252-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3435,12 +3850,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect253" />
+       id="rect252-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1758.2654"
        class="tap"
-       id="text254">[</text>
+       id="text253-9"
+       style="dominant-baseline:middle;text-anchor:middle">[</text>
     <rect
        rx="6"
        ry="6"
@@ -3449,12 +3866,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect254" />
+       id="rect253-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1744.2654"
        class="tap"
-       id="text255">7</text>
+       id="text254-4"
+       style="dominant-baseline:middle;text-anchor:middle">7</text>
     <rect
        rx="6"
        ry="6"
@@ -3463,12 +3882,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect255" />
+       id="rect254-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1737.2654"
        class="tap"
-       id="text256">8</text>
+       id="text255-9"
+       style="dominant-baseline:middle;text-anchor:middle">8</text>
     <rect
        rx="6"
        ry="6"
@@ -3477,12 +3898,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect256" />
+       id="rect255-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1744.2654"
        class="tap"
-       id="text257">9</text>
+       id="text256-9"
+       style="dominant-baseline:middle;text-anchor:middle">9</text>
     <rect
        rx="6"
        ry="6"
@@ -3491,12 +3914,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect257" />
+       id="rect256-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1751.2654"
        class="tap"
-       id="text258">]</text>
+       id="text257-5"
+       style="dominant-baseline:middle;text-anchor:middle">]</text>
     <rect
        rx="6"
        ry="6"
@@ -3505,12 +3930,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect258" />
+       id="rect257-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1751.2654"
        class="trans tap"
-       id="text259">▽</text>
+       id="text258-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3519,12 +3946,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect259" />
+       id="rect258-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1744.2654"
        class="trans tap"
-       id="text260">▽</text>
+       id="text259-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3533,12 +3962,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect260" />
+       id="rect259-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1737.2654"
        class="trans tap"
-       id="text261">▽</text>
+       id="text260-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3547,12 +3978,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect261" />
+       id="rect260-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1744.2654"
        class="trans tap"
-       id="text262">▽</text>
+       id="text261-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3561,12 +3994,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect262" />
+       id="rect261-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1758.2654"
        class="trans tap"
-       id="text263">▽</text>
+       id="text262-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3575,12 +4010,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect263" />
+       id="rect262-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1758.2654"
        class="trans tap"
-       id="text264">▽</text>
+       id="text263-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3589,12 +4026,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect264" />
+       id="rect263-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1814.2654"
        class="trans tap"
-       id="text265">▽</text>
+       id="text264-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3603,12 +4042,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect265" />
+       id="rect264-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1814.2654"
        class="tap"
-       id="text266">;</text>
+       id="text265-9"
+       style="dominant-baseline:middle;text-anchor:middle">;</text>
     <rect
        rx="6"
        ry="6"
@@ -3617,12 +4058,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect266" />
+       id="rect265-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1800.2654"
        class="tap"
-       id="text267">4</text>
+       id="text266-6"
+       style="dominant-baseline:middle;text-anchor:middle">4</text>
     <rect
        rx="6"
        ry="6"
@@ -3631,12 +4074,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect267" />
+       id="rect266-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1793.2654"
        class="tap"
-       id="text268">5</text>
+       id="text267-1"
+       style="dominant-baseline:middle;text-anchor:middle">5</text>
     <rect
        rx="6"
        ry="6"
@@ -3645,12 +4090,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect268" />
+       id="rect267-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1800.2654"
        class="tap"
-       id="text269">6</text>
+       id="text268-5"
+       style="dominant-baseline:middle;text-anchor:middle">6</text>
     <rect
        rx="6"
        ry="6"
@@ -3659,12 +4106,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect269" />
+       id="rect268-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1807.2654"
        class="tap"
-       id="text270">=</text>
+       id="text269-9"
+       style="dominant-baseline:middle;text-anchor:middle">=</text>
     <rect
        rx="6"
        ry="6"
@@ -3673,12 +4122,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect270" />
+       id="rect269-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1807.2654"
        class="trans tap"
-       id="text271">▽</text>
+       id="text270-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3687,18 +4138,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect271" />
+       id="rect270-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1800.2654"
        class="tap"
-       id="text272"><tspan
+       id="text271-7"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="618"
          dy="-0.60000002em"
-         id="tspan271">RIGHT</tspan><tspan
+         id="tspan270">RIGHT</tspan><tspan
          x="618"
          dy="1.2em"
-         id="tspan272">SHIFT</tspan></text>
+         id="tspan271-0">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -3707,12 +4160,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect272" />
+       id="rect271-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1793.2654"
        class="tap"
-       id="text273">RCTRL</text>
+       id="text272-2"
+       style="dominant-baseline:middle;text-anchor:middle">RCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -3721,18 +4176,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect273" />
+       id="rect272-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1800.2654"
        class="tap"
-       id="text274"><tspan
+       id="text273-9"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="730"
          dy="-0.60000002em"
-         id="tspan273">RIGHT</tspan><tspan
+         id="tspan272-1">RIGHT</tspan><tspan
          x="730"
          dy="1.2em"
-         id="tspan274">ALT</tspan></text>
+         id="tspan273-9">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -3741,18 +4198,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect274" />
+       id="rect273-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1814.2654"
        class="tap"
-       id="text276"><tspan
+       id="text275"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="786"
          dy="-0.60000002em"
-         id="tspan275">RIGHT</tspan><tspan
+         id="tspan274-3">RIGHT</tspan><tspan
          x="786"
          dy="1.2em"
-         id="tspan276">GUI</tspan></text>
+         id="tspan275-6">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -3761,12 +4220,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect276" />
+       id="rect275"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1814.2654"
        class="trans tap"
-       id="text277">▽</text>
+       id="text276-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3775,12 +4236,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect277" />
+       id="rect276-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="1870.2654"
        class="trans tap"
-       id="text278">▽</text>
+       id="text277-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3789,12 +4252,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect278" />
+       id="rect277-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="1870.2654"
        class="tap"
-       id="text279">`</text>
+       id="text278-7"
+       style="dominant-baseline:middle;text-anchor:middle">`</text>
     <rect
        rx="6"
        ry="6"
@@ -3803,12 +4268,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect279" />
+       id="rect278-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="1856.2654"
        class="tap"
-       id="text280">1</text>
+       id="text279-7"
+       style="dominant-baseline:middle;text-anchor:middle">1</text>
     <rect
        rx="6"
        ry="6"
@@ -3817,12 +4284,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect280" />
+       id="rect279-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="1849.2654"
        class="tap"
-       id="text281">2</text>
+       id="text280-1"
+       style="dominant-baseline:middle;text-anchor:middle">2</text>
     <rect
        rx="6"
        ry="6"
@@ -3831,12 +4300,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect281" />
+       id="rect280-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="1856.2654"
        class="tap"
-       id="text282">3</text>
+       id="text281-0"
+       style="dominant-baseline:middle;text-anchor:middle">3</text>
     <rect
        rx="6"
        ry="6"
@@ -3845,12 +4316,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect282" />
+       id="rect281-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="1863.2654"
        class="tap"
-       id="text283">\</text>
+       id="text282-4"
+       style="dominant-baseline:middle;text-anchor:middle">\</text>
     <rect
        rx="6"
        ry="6"
@@ -3859,12 +4332,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect283" />
+       id="rect282-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="1863.2654"
        class="trans tap"
-       id="text284">▽</text>
+       id="text283-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3873,12 +4348,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect284" />
+       id="rect283-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="1856.2654"
        class="trans tap"
-       id="text285">▽</text>
+       id="text284-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3887,12 +4364,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect285" />
+       id="rect284-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="1849.2654"
        class="trans tap"
-       id="text286">▽</text>
+       id="text285-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3901,12 +4380,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect286" />
+       id="rect285-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="1856.2654"
        class="trans tap"
-       id="text287">▽</text>
+       id="text286-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3915,12 +4396,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect287" />
+       id="rect286-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="1870.2654"
        class="trans tap"
-       id="text288">▽</text>
+       id="text287-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3929,12 +4412,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect288" />
+       id="rect287-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="1870.2654"
        class="trans tap"
-       id="text289">▽</text>
+       id="text288-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -3943,15 +4428,17 @@
        width="52"
        height="52"
        class="key"
-       id="rect289" />
+       id="rect288-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="254"
        y="1914.1133"
        class="tap"
-       id="text290">.</text>
+       id="text289-9"
+       style="dominant-baseline:middle;text-anchor:middle">.</text>
     <g
        transform="rotate(15,315.6,1922.3453)"
-       id="g291">
+       id="g290">
       <rect
          rx="6"
          ry="6"
@@ -3960,16 +4447,18 @@
          width="52"
          height="52"
          class="key"
-         id="rect290" />
+         id="rect289-5"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="315.60001"
          y="1922.3453"
          class="tap"
-         id="text291">0</text>
+         id="text290-5"
+         style="dominant-baseline:middle;text-anchor:middle">0</text>
     </g>
     <g
        transform="rotate(30,381.12,1933.5453)"
-       id="g292">
+       id="g291-2">
       <rect
          rx="6"
          ry="6"
@@ -3978,16 +4467,18 @@
          width="52"
          height="80"
          class="key"
-         id="rect291" />
+         id="rect290-1"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="381.12"
          y="1933.5453"
          class="tap"
-         id="text292">-</text>
+         id="text291-5"
+         style="dominant-baseline:middle;text-anchor:middle">-</text>
     </g>
     <g
        transform="rotate(-30,518.88,1933.5453)"
-       id="g293">
+       id="g292-9">
       <rect
          rx="6"
          ry="6"
@@ -3996,16 +4487,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect292" />
+         id="rect291-9"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="518.88"
          y="1933.5453"
          class="trans tap"
-         id="text293">▽</text>
+         id="text292-1"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-15,584.4,1922.3453)"
-       id="g294">
+       id="g293-6">
       <rect
          rx="6"
          ry="6"
@@ -4014,7 +4507,8 @@
          width="52"
          height="52"
          class="held key"
-         id="rect293" />
+         id="rect292-2"
+         style="fill:#ffdddd;stroke:#c9cccf;stroke-width:1" />
     </g>
     <rect
        rx="6"
@@ -4024,23 +4518,25 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect294" />
+       id="rect293-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="646"
        y="1914.1133"
        class="trans tap"
-       id="text294">▽</text>
+       id="text293-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
   </g>
   <g
      class="layer-SYM"
-     id="g338"
-     transform="translate(938.30829,-1651.7863)">
+     id="g337-5"
+     transform="translate(938.40399,-1652.5881)">
     <text
        x="30"
        y="2011.9185"
        class="label"
-       id="text295"
-       style="font-size:32px">SYM:</text>
+       id="text294-3"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">SYM:</text>
     <rect
        rx="6"
        ry="6"
@@ -4049,12 +4545,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect295" />
+       id="rect294-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="2088.9185"
        class="trans tap"
-       id="text296">▽</text>
+       id="text295-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4063,12 +4561,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect296" />
+       id="rect295-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="2088.9185"
        class="tap"
-       id="text297">{</text>
+       id="text296-7"
+       style="dominant-baseline:middle;text-anchor:middle">{</text>
     <rect
        rx="6"
        ry="6"
@@ -4077,12 +4577,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect297" />
+       id="rect296-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="2074.9185"
        class="tap"
-       id="text298">&amp;</text>
+       id="text297-8"
+       style="dominant-baseline:middle;text-anchor:middle">&amp;</text>
     <rect
        rx="6"
        ry="6"
@@ -4091,12 +4593,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect298" />
+       id="rect297-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="2067.9185"
        class="tap"
-       id="text299">*</text>
+       id="text298-0"
+       style="dominant-baseline:middle;text-anchor:middle">*</text>
     <rect
        rx="6"
        ry="6"
@@ -4105,12 +4609,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect299" />
+       id="rect298-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="2074.9185"
        class="tap"
-       id="text300">(</text>
+       id="text299-4"
+       style="dominant-baseline:middle;text-anchor:middle">(</text>
     <rect
        rx="6"
        ry="6"
@@ -4119,12 +4625,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect300" />
+       id="rect299-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="2081.9185"
        class="tap"
-       id="text301">}</text>
+       id="text300-3"
+       style="dominant-baseline:middle;text-anchor:middle">}</text>
     <rect
        rx="6"
        ry="6"
@@ -4133,12 +4641,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect301" />
+       id="rect300-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="2081.9185"
        class="trans tap"
-       id="text302">▽</text>
+       id="text301-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4147,12 +4657,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect302" />
+       id="rect301-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="2074.9185"
        class="trans tap"
-       id="text303">▽</text>
+       id="text302-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4161,12 +4673,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect303" />
+       id="rect302-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="2067.9185"
        class="trans tap"
-       id="text304">▽</text>
+       id="text303-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4175,12 +4689,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect304" />
+       id="rect303-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="2074.9185"
        class="trans tap"
-       id="text305">▽</text>
+       id="text304-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4189,12 +4705,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect305" />
+       id="rect304-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="2088.9185"
        class="trans tap"
-       id="text306">▽</text>
+       id="text305-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4203,12 +4721,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect306" />
+       id="rect305-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="2088.9185"
        class="trans tap"
-       id="text307">▽</text>
+       id="text306-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4217,12 +4737,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect307" />
+       id="rect306-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="2144.9185"
        class="trans tap"
-       id="text308">▽</text>
+       id="text307-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4231,12 +4753,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect308" />
+       id="rect307-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="2144.9185"
        class="tap"
-       id="text309">:</text>
+       id="text308-3"
+       style="dominant-baseline:middle;text-anchor:middle">:</text>
     <rect
        rx="6"
        ry="6"
@@ -4245,12 +4769,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect309" />
+       id="rect308-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="2130.9185"
        class="tap"
-       id="text310">$</text>
+       id="text309-8"
+       style="dominant-baseline:middle;text-anchor:middle">$</text>
     <rect
        rx="6"
        ry="6"
@@ -4259,12 +4785,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect310" />
+       id="rect309-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="2123.9185"
        class="tap"
-       id="text311">%</text>
+       id="text310-4"
+       style="dominant-baseline:middle;text-anchor:middle">%</text>
     <rect
        rx="6"
        ry="6"
@@ -4273,12 +4801,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect311" />
+       id="rect310-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="2130.9185"
        class="tap"
-       id="text312">^</text>
+       id="text311-6"
+       style="dominant-baseline:middle;text-anchor:middle">^</text>
     <rect
        rx="6"
        ry="6"
@@ -4287,12 +4817,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect312" />
+       id="rect311-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="2137.9185"
        class="tap"
-       id="text313">+</text>
+       id="text312-8"
+       style="dominant-baseline:middle;text-anchor:middle">+</text>
     <rect
        rx="6"
        ry="6"
@@ -4301,12 +4833,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect313" />
+       id="rect312-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="2137.9185"
        class="trans tap"
-       id="text314">▽</text>
+       id="text313-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4315,18 +4849,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect314" />
+       id="rect313-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="2130.9185"
        class="tap"
-       id="text315"><tspan
+       id="text314-1"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="618"
          dy="-0.60000002em"
-         id="tspan314">RIGHT</tspan><tspan
+         id="tspan313">RIGHT</tspan><tspan
          x="618"
          dy="1.2em"
-         id="tspan315">SHIFT</tspan></text>
+         id="tspan314-2">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -4335,12 +4871,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect315" />
+       id="rect314-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="2123.9185"
        class="tap"
-       id="text316">RCTRL</text>
+       id="text315-4"
+       style="dominant-baseline:middle;text-anchor:middle">RCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -4349,18 +4887,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect316" />
+       id="rect315-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="2130.9185"
        class="tap"
-       id="text317"><tspan
+       id="text316-5"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="730"
          dy="-0.60000002em"
-         id="tspan316">RIGHT</tspan><tspan
+         id="tspan315-6">RIGHT</tspan><tspan
          x="730"
          dy="1.2em"
-         id="tspan317">ALT</tspan></text>
+         id="tspan316-2">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -4369,18 +4909,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect317" />
+       id="rect316-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="2144.9185"
        class="tap"
-       id="text319"><tspan
+       id="text318"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="786"
          dy="-0.60000002em"
-         id="tspan318">RIGHT</tspan><tspan
+         id="tspan317-2">RIGHT</tspan><tspan
          x="786"
          dy="1.2em"
-         id="tspan319">GUI</tspan></text>
+         id="tspan318-6">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -4389,12 +4931,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect319" />
+       id="rect318"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="2144.9185"
        class="trans tap"
-       id="text320">▽</text>
+       id="text319-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4403,12 +4947,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect320" />
+       id="rect319-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="2200.9185"
        class="trans tap"
-       id="text321">▽</text>
+       id="text320-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4417,12 +4963,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect321" />
+       id="rect320-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="2200.9185"
        class="tap"
-       id="text322">`</text>
+       id="text321-1"
+       style="dominant-baseline:middle;text-anchor:middle">`</text>
     <rect
        rx="6"
        ry="6"
@@ -4431,12 +4979,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect322" />
+       id="rect321-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="2186.9185"
        class="tap"
-       id="text323">!</text>
+       id="text322-2"
+       style="dominant-baseline:middle;text-anchor:middle">!</text>
     <rect
        rx="6"
        ry="6"
@@ -4445,12 +4995,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect323" />
+       id="rect322-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="2179.9185"
        class="tap"
-       id="text324">@</text>
+       id="text323-9"
+       style="dominant-baseline:middle;text-anchor:middle">@</text>
     <rect
        rx="6"
        ry="6"
@@ -4459,12 +5011,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect324" />
+       id="rect323-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="2186.9185"
        class="tap"
-       id="text325">#</text>
+       id="text324-4"
+       style="dominant-baseline:middle;text-anchor:middle">#</text>
     <rect
        rx="6"
        ry="6"
@@ -4473,12 +5027,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect325" />
+       id="rect324-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="2193.9185"
        class="tap"
-       id="text326">|</text>
+       id="text325-0"
+       style="dominant-baseline:middle;text-anchor:middle">|</text>
     <rect
        rx="6"
        ry="6"
@@ -4487,12 +5043,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect326" />
+       id="rect325-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="2193.9185"
        class="trans tap"
-       id="text327">▽</text>
+       id="text326-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4501,12 +5059,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect327" />
+       id="rect326-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="2186.9185"
        class="trans tap"
-       id="text328">▽</text>
+       id="text327-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4515,12 +5075,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect328" />
+       id="rect327-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="2179.9185"
        class="trans tap"
-       id="text329">▽</text>
+       id="text328-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4529,12 +5091,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect329" />
+       id="rect328-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="2186.9185"
        class="trans tap"
-       id="text330">▽</text>
+       id="text329-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4543,12 +5107,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect330" />
+       id="rect329-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="2200.9185"
        class="trans tap"
-       id="text331">▽</text>
+       id="text330-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4557,12 +5123,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect331" />
+       id="rect330-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="2200.9185"
        class="trans tap"
-       id="text332">▽</text>
+       id="text331-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4571,15 +5139,17 @@
        width="52"
        height="52"
        class="key"
-       id="rect332" />
+       id="rect331-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="254"
        y="2244.7664"
        class="tap"
-       id="text333">(</text>
+       id="text332-5"
+       style="dominant-baseline:middle;text-anchor:middle">(</text>
     <g
        transform="rotate(15,315.6,2252.9984)"
-       id="g334">
+       id="g333">
       <rect
          rx="6"
          ry="6"
@@ -4588,16 +5158,18 @@
          width="52"
          height="52"
          class="key"
-         id="rect333" />
+         id="rect332-5"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="315.60001"
          y="2252.9983"
          class="tap"
-         id="text334">)</text>
+         id="text333-8"
+         style="dominant-baseline:middle;text-anchor:middle">)</text>
     </g>
     <g
        transform="rotate(30,381.12,2264.1984)"
-       id="g335">
+       id="g334-7">
       <rect
          rx="6"
          ry="6"
@@ -4606,16 +5178,18 @@
          width="52"
          height="80"
          class="key"
-         id="rect334" />
+         id="rect333-1"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="381.12"
          y="2264.1985"
          class="tap"
-         id="text335">-</text>
+         id="text334-7"
+         style="dominant-baseline:middle;text-anchor:middle">-</text>
     </g>
     <g
        transform="rotate(-30,518.88,2264.1984)"
-       id="g336">
+       id="g335-0">
       <rect
          rx="6"
          ry="6"
@@ -4624,11 +5198,12 @@
          width="52"
          height="80"
          class="held key"
-         id="rect335" />
+         id="rect334-6"
+         style="fill:#ffdddd;stroke:#c9cccf;stroke-width:1" />
     </g>
     <g
        transform="rotate(-15,584.4,2252.9984)"
-       id="g337">
+       id="g336-0">
       <rect
          rx="6"
          ry="6"
@@ -4637,12 +5212,14 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect336" />
+         id="rect335-4"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="584.40002"
          y="2252.9983"
          class="trans tap"
-         id="text336">▽</text>
+         id="text335-1"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <rect
        rx="6"
@@ -4652,23 +5229,25 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect337" />
+       id="rect336-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="646"
        y="2244.7664"
        class="trans tap"
-       id="text337">▽</text>
+       id="text336-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
   </g>
   <g
      class="layer-FUN"
-     id="g381"
-     transform="translate(950.47566,-1321.5374)">
+     id="g380-2"
+     transform="translate(937.82391,-1322.3177)">
     <text
        x="30"
        y="2342.5715"
        class="label"
-       id="text338"
-       style="font-size:32px">FUN:</text>
+       id="text337-9"
+       style="font-weight:bold;font-size:28px;dominant-baseline:middle;text-anchor:start;stroke:#ffffff;stroke-width:2;paint-order:stroke">FUN:</text>
     <rect
        rx="6"
        ry="6"
@@ -4677,12 +5256,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect338" />
+       id="rect337-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="2419.5715"
        class="trans tap"
-       id="text339">▽</text>
+       id="text338-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4691,12 +5272,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect339" />
+       id="rect338-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="2419.5715"
        class="tap"
-       id="text340">F9</text>
+       id="text339-3"
+       style="dominant-baseline:middle;text-anchor:middle">F12</text>
     <rect
        rx="6"
        ry="6"
@@ -4705,12 +5288,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect340" />
+       id="rect339-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="2405.5715"
        class="tap"
-       id="text341">F10</text>
+       id="text340-4"
+       style="dominant-baseline:middle;text-anchor:middle">F7</text>
     <rect
        rx="6"
        ry="6"
@@ -4719,12 +5304,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect341" />
+       id="rect340-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="2398.5715"
        class="tap"
-       id="text342">F11</text>
+       id="text341-6"
+       style="dominant-baseline:middle;text-anchor:middle">F8</text>
     <rect
        rx="6"
        ry="6"
@@ -4733,12 +5320,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect342" />
+       id="rect341-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="2405.5715"
        class="tap"
-       id="text343">F12</text>
+       id="text342-3"
+       style="dominant-baseline:middle;text-anchor:middle">F9</text>
     <rect
        rx="6"
        ry="6"
@@ -4747,13 +5336,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect343" />
+       id="rect342-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="2412.5715"
        class="tap"
-       style="font-size:64%"
-       id="text344">PRINTSCREEN</text>
+       style="font-size:64%;dominant-baseline:middle;text-anchor:middle"
+       id="text343-9">PRINTSCREEN</text>
     <rect
        rx="6"
        ry="6"
@@ -4762,12 +5352,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect344" />
+       id="rect343-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="2412.5715"
        class="trans tap"
-       id="text345">▽</text>
+       id="text344-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4776,12 +5368,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect345" />
+       id="rect344-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="2405.5715"
        class="trans tap"
-       id="text346">▽</text>
+       id="text345-4"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4790,12 +5384,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect346" />
+       id="rect345-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="2398.5715"
        class="trans tap"
-       id="text347">▽</text>
+       id="text346-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4804,12 +5400,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect347" />
+       id="rect346-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="2405.5715"
        class="trans tap"
-       id="text348">▽</text>
+       id="text347-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4818,12 +5416,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect348" />
+       id="rect347-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="2419.5715"
        class="trans tap"
-       id="text349">▽</text>
+       id="text348-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4832,12 +5432,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect349" />
+       id="rect348-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="2419.5715"
        class="trans tap"
-       id="text350">▽</text>
+       id="text349-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4846,12 +5448,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect350" />
+       id="rect349-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="2475.5715"
        class="trans tap"
-       id="text351">▽</text>
+       id="text350-1"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4860,12 +5464,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect351" />
+       id="rect350-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="2475.5715"
        class="tap"
-       id="text352">F5</text>
+       id="text351-9"
+       style="dominant-baseline:middle;text-anchor:middle">F11</text>
     <rect
        rx="6"
        ry="6"
@@ -4874,12 +5480,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect352" />
+       id="rect351-1"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="2461.5715"
        class="tap"
-       id="text353">F6</text>
+       id="text352-3"
+       style="dominant-baseline:middle;text-anchor:middle">F4</text>
     <rect
        rx="6"
        ry="6"
@@ -4888,12 +5496,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect353" />
+       id="rect352-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="2454.5715"
        class="tap"
-       id="text354">F7</text>
+       id="text353-7"
+       style="dominant-baseline:middle;text-anchor:middle">F5</text>
     <rect
        rx="6"
        ry="6"
@@ -4902,12 +5512,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect354" />
+       id="rect353-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="2461.5715"
        class="tap"
-       id="text355">F8</text>
+       id="text354-9"
+       style="dominant-baseline:middle;text-anchor:middle">F6</text>
     <rect
        rx="6"
        ry="6"
@@ -4916,13 +5528,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect355" />
+       id="rect354-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="2468.5715"
        class="tap"
-       style="font-size:70%"
-       id="text356">SCROLLLOCK</text>
+       style="font-size:70%;dominant-baseline:middle;text-anchor:middle"
+       id="text355-1">SCROLLLOCK</text>
     <rect
        rx="6"
        ry="6"
@@ -4931,12 +5544,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect356" />
+       id="rect355-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="2468.5715"
        class="trans tap"
-       id="text357">▽</text>
+       id="text356-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -4945,18 +5560,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect357" />
+       id="rect356-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="2461.5715"
        class="tap"
-       id="text358"><tspan
+       id="text357-9"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="618"
          dy="-0.60000002em"
-         id="tspan357">RIGHT</tspan><tspan
+         id="tspan356">RIGHT</tspan><tspan
          x="618"
          dy="1.2em"
-         id="tspan358">SHIFT</tspan></text>
+         id="tspan357-3">SHIFT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -4965,12 +5582,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect358" />
+       id="rect357-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="2454.5715"
        class="tap"
-       id="text359">RCTRL</text>
+       id="text358-8"
+       style="dominant-baseline:middle;text-anchor:middle">RCTRL</text>
     <rect
        rx="6"
        ry="6"
@@ -4979,18 +5598,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect359" />
+       id="rect358-4"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="2461.5715"
        class="tap"
-       id="text360"><tspan
+       id="text359-0"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="730"
          dy="-0.60000002em"
-         id="tspan359">RIGHT</tspan><tspan
+         id="tspan358-0">RIGHT</tspan><tspan
          x="730"
          dy="1.2em"
-         id="tspan360">ALT</tspan></text>
+         id="tspan359-8">ALT</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -4999,18 +5620,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect360" />
+       id="rect359-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="2475.5715"
        class="tap"
-       id="text362"><tspan
+       id="text361"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="786"
          dy="-0.60000002em"
-         id="tspan361">RIGHT</tspan><tspan
+         id="tspan360-8">RIGHT</tspan><tspan
          x="786"
          dy="1.2em"
-         id="tspan362">GUI</tspan></text>
+         id="tspan361-2">GUI</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -5019,12 +5642,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect362" />
+       id="rect361"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="2475.5715"
        class="trans tap"
-       id="text363">▽</text>
+       id="text362-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5033,12 +5658,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect363" />
+       id="rect362-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="58"
        y="2531.5715"
        class="trans tap"
-       id="text364">▽</text>
+       id="text363-5"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5047,12 +5674,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect364" />
+       id="rect363-0"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="114"
        y="2531.5715"
        class="tap"
-       id="text365">F1</text>
+       id="text364-5"
+       style="dominant-baseline:middle;text-anchor:middle">F10</text>
     <rect
        rx="6"
        ry="6"
@@ -5061,12 +5690,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect365" />
+       id="rect364-9"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="170"
        y="2517.5715"
        class="tap"
-       id="text366">F2</text>
+       id="text365-2"
+       style="dominant-baseline:middle;text-anchor:middle">F1</text>
     <rect
        rx="6"
        ry="6"
@@ -5075,12 +5706,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect366" />
+       id="rect365-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="226"
        y="2510.5715"
        class="tap"
-       id="text367">F3</text>
+       id="text366-8"
+       style="dominant-baseline:middle;text-anchor:middle">F2</text>
     <rect
        rx="6"
        ry="6"
@@ -5089,12 +5722,14 @@
        width="52"
        height="52"
        class="key"
-       id="rect367" />
+       id="rect366-5"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="282"
        y="2517.5715"
        class="tap"
-       id="text368">F4</text>
+       id="text367-2"
+       style="dominant-baseline:middle;text-anchor:middle">F3</text>
     <rect
        rx="6"
        ry="6"
@@ -5103,18 +5738,20 @@
        width="52"
        height="52"
        class="key"
-       id="rect368" />
+       id="rect367-8"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="338"
        y="2524.5715"
        class="tap"
-       id="text369"><tspan
+       id="text368-3"
+       style="dominant-baseline:middle;text-anchor:middle"><tspan
          x="338"
          dy="-0.60000002em"
-         id="tspan368">PAUSE</tspan><tspan
+         id="tspan367">PAUSE</tspan><tspan
          x="338"
          dy="1.2em"
-         id="tspan369">BREAK</tspan></text>
+         id="tspan368-6">BREAK</tspan></text>
     <rect
        rx="6"
        ry="6"
@@ -5123,12 +5760,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect369" />
+       id="rect368-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="562"
        y="2524.5715"
        class="trans tap"
-       id="text370">▽</text>
+       id="text369-8"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5137,12 +5776,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect370" />
+       id="rect369-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="618"
        y="2517.5715"
        class="trans tap"
-       id="text371">▽</text>
+       id="text370-2"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5151,12 +5792,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect371" />
+       id="rect370-6"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="674"
        y="2510.5715"
        class="trans tap"
-       id="text372">▽</text>
+       id="text371-6"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5165,12 +5808,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect372" />
+       id="rect371-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="730"
        y="2517.5715"
        class="trans tap"
-       id="text373">▽</text>
+       id="text372-9"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5179,12 +5824,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect373" />
+       id="rect372-7"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="786"
        y="2531.5715"
        class="trans tap"
-       id="text374">▽</text>
+       id="text373-0"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5193,12 +5840,14 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect374" />
+       id="rect373-3"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="842"
        y="2531.5715"
        class="trans tap"
-       id="text375">▽</text>
+       id="text374-7"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <rect
        rx="6"
        ry="6"
@@ -5207,15 +5856,17 @@
        width="52"
        height="52"
        class="trans key"
-       id="rect375" />
+       id="rect374-2"
+       style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
     <text
        x="254"
        y="2575.4194"
        class="trans tap"
-       id="text376">▽</text>
+       id="text375-3"
+       style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     <g
        transform="rotate(15,315.6,2583.6515)"
-       id="g377">
+       id="g376">
       <rect
          rx="6"
          ry="6"
@@ -5224,16 +5875,18 @@
          width="52"
          height="52"
          class="key"
-         id="rect376" />
+         id="rect375-5"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="315.60001"
          y="2583.6514"
          class="tap"
-         id="text377">SPACE</text>
+         id="text376-1"
+         style="dominant-baseline:middle;text-anchor:middle">SPACE</text>
     </g>
     <g
        transform="rotate(30,381.12,2594.8515)"
-       id="g378">
+       id="g377-7">
       <rect
          rx="6"
          ry="6"
@@ -5242,16 +5895,18 @@
          width="52"
          height="80"
          class="key"
-         id="rect377" />
+         id="rect376-8"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="381.12"
          y="2594.8516"
          class="tap"
-         id="text378">TAB</text>
+         id="text377-9"
+         style="dominant-baseline:middle;text-anchor:middle">TAB</text>
     </g>
     <g
        transform="rotate(-30,518.88,2594.8515)"
-       id="g379">
+       id="g378-4">
       <rect
          rx="6"
          ry="6"
@@ -5260,16 +5915,18 @@
          width="52"
          height="80"
          class="trans key"
-         id="rect378" />
+         id="rect377-1"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="518.88"
          y="2594.8516"
          class="trans tap"
-         id="text379">▽</text>
+         id="text378-6"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <g
        transform="rotate(-15,584.4,2583.6515)"
-       id="g380">
+       id="g379-4">
       <rect
          rx="6"
          ry="6"
@@ -5278,12 +5935,14 @@
          width="52"
          height="52"
          class="trans key"
-         id="rect379" />
+         id="rect378-3"
+         style="fill:#f6f8fa;stroke:#c9cccf;stroke-width:1" />
       <text
          x="584.40002"
          y="2583.6514"
          class="trans tap"
-         id="text380">▽</text>
+         id="text379-5"
+         style="dominant-baseline:middle;text-anchor:middle;fill:#7b7e81">▽</text>
     </g>
     <rect
        rx="6"
@@ -5293,6 +5952,7 @@
        width="52"
        height="52"
        class="held key"
-       id="rect380" />
+       id="rect379-4"
+       style="fill:#ffdddd;stroke:#c9cccf;stroke-width:1" />
   </g>
 </svg>

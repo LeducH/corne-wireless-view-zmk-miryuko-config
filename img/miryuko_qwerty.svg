@@ -47,6 +47,7 @@ text.label {
     stroke: white;
     stroke-width: 2;
     paint-order: stroke;
+    font-size: 28px;
 }
 
 /* styling for combo tap, and key hold/shifted label text */
